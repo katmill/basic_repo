@@ -1,0 +1,13 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px auto;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    width: 300px;
+    background-color: rgb(226, 43, 171);
+    border-radius: 10px;
+    text-align: center;
+    color: whitesmoke;
+}
